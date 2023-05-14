@@ -1,0 +1,13 @@
+.events{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+}
+
+.workshops{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}

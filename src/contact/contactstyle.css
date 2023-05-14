@@ -1,0 +1,21 @@
+.poc{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap:10px;
+}
+
+.poc span{
+    color: white;
+    font-size: 30px;
+}
+
+.support,.socials{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+.con{
+    color:#F2A154;
+}

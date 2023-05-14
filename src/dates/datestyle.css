@@ -1,0 +1,26 @@
+table,th,td{
+    border: 3px solid;
+    border-collapse: collapse;
+    border-color: #1E212D;
+    padding: 10px;
+}
+
+td p{
+    color:#1E212D;
+}
+
+td b{
+   color: #F2A154;
+}
+
+table{
+    background-color: white;
+}
+
+.dates{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:20px;
+}

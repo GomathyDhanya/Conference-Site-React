@@ -1,0 +1,21 @@
+.regform{
+display: flex;
+flex-direction: column;
+gap:20px;
+}
+
+.rform{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    background-color: white;
+    padding: 50px;
+}
+
+.regsub{
+    background-color: #F2A154;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    align-self: flex-end;
+}
